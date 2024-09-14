@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome! 👋
+
+I'm a **Mathematics Undergrad** and a **Self-taught Developer** interested in building any kind of software. 
+
+## Keep in touch 📫
+
+Feel free to connect with me through [LinkedIn](https://mx.linkedin.com/in/milton-montiel) or [mail](mailto:miltgonmont@gmail.com).
 
 <!--
 **MiltMont/MiltMont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
