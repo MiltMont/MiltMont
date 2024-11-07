@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-I'm a **Mathematics Undergrad** and a **Self-taught Developer** interested in building any kind of software. 
+I'm a **Mathematics Undergrad** interested in programming language design and compilers. 
 
 ## Keep in touch 📫
 
