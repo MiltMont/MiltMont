@@ -1,6 +1,8 @@
-## Welcome! 👋
+## Hi! 👋
 
-I'm a **Mathematics Undergrad** interested in programming language design and compilers. 
+I'm a *math undergrad* at [UNAM](https://www.fciencias.unam.mx/), mainly interested in Algebraic Topology and Combinatorics. On the CS side I'm learning about computer graphics and compilers. Right now I'm looking at the interaction between these fields, I'm taking some time to learn about Shing-Tung Yau's work on [Computational Conformal Geometry](https://www.amazon.com/Computational-Conformal-Geometry-softcover-Mathematics/dp/1571463240) and more [modern approaches](https://www.cs.cmu.edu/~kmcrane/Projects/ConformalGeometryProcessing/thesis.pdf) to the subject.  
+
+You can find more about my interests in [my site](https://montiel.vercel.app), there I usually write about the things that are of my current interest. 
 
 ## Keep in touch 📫
 
